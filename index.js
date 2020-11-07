@@ -148,4 +148,4 @@ client.on('messageDelete', async(message, channel) => {
     })
 })
 
-client.login('NzcwMjk4NTgyNDA1ODczNzE0.X5bidQ.1MAzDIu4YkbMnnUJOeGf-pai5cY');
+client.login(process.env.token);
