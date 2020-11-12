@@ -1,7 +1,6 @@
 const Discord = require('discord.js')
 const bot = require('./handler/client.js')
 const client = new bot();
-const { token } = require('./config.json')
 
 require('./handler/module.js')(client)
 require('./handler/event.js')(client)
