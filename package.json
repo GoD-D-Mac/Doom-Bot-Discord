@@ -1,0 +1,22 @@
+{
+  "name": "doom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-constructor": "^4.1.0",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.4.1",
+    "figlet": "^1.5.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "random-puppy": "^1.1.0"
+  }
+}
